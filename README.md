@@ -10,5 +10,7 @@ FROM [codenvy/ubuntu_jdk8](https://hub.docker.com/r/codenvy/ubuntu_jdk8/)
 | :------------- |:------------- |
 | 1      | `cd ${current.project.path} && mvn spring-boot:run` |
 
-# Factory
+# Preview URL
+
+The app runs on port 8080 in the container
 
